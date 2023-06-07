@@ -68,6 +68,7 @@ span {
   letter-spacing: .35em;
   vertical-align: top;
   padding-top: 10px;
+  justify-content: space-between;
 }
 
 img {
